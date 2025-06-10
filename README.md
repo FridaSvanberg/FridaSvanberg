@@ -64,7 +64,7 @@
 
 ### 📨 Use the Message Spell
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/fridasvanberg)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/frida-svanberg)  
 📫 svanberg92@gmail.com  
 
 ---
